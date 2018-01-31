@@ -17,7 +17,7 @@
     <version>1.3.8.RELEASE</version>
   </parent>
   <modules>
-    <module>eurekasrvr</module>
+    <module>eurekasvr</module>
   </modules>
   <build>
     <plugins>
