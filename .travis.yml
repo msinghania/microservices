@@ -18,8 +18,8 @@ branches:
 env:
   global:
   - DOCKER_USERNAME=msinghania
-  - DOCKER_PASSWORD=G3ekS9uad
-  - GITHUB_TOKEN=f698a08587f48f552fc8b9c47ea8a43a3b7bef3f
+  - DOCKER_PASSWORD=**
+  - GITHUB_TOKEN=**
   fore_install:
 - gem install travis -v 1.8.5 --no-rdoc --no-ri
 - sudo curl -k -o /usr/local/bin/ecs-cli https://s3.amazonaws.com/amazon-ecs-cli/ecs-cli-linux-amd64-latest
